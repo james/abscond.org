@@ -16,3 +16,14 @@
 @import "./sections/footer";
 @import "./sections/masthead";
 @import "./sections/post";
+
+img.portrait {
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 10px solid #fff;
+  margin: 2em 3em;
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  max-height: 300px;
+}
