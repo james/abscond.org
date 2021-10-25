@@ -8,6 +8,13 @@ header.masthead {
     position: relative;
     background-size: cover;
 
+    a {
+        color: white;
+        &:hover {
+            color: black;
+        }
+    }
+
     .overlay {
         // don't think I want overlays
         // position: absolute;

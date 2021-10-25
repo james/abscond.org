@@ -17,13 +17,27 @@
 @import "./sections/masthead";
 @import "./sections/post";
 
-img.portrait {
-  box-sizing: border-box;
-  border-radius: 50%;
-  border: 10px solid #fff;
-  margin: 2em 3em;
-  width: 100%;
-  height: auto;
-  max-width: 300px;
-  max-height: 300px;
+.homepage {
+  color: white;
+  font-size:1em;
+  padding-top: 50px;
+
+  @media only screen and (min-width: 768px) {
+    padding-top: 100px;
+  }
+
+  img.portrait {
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 10px solid #fff;
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto 2em;
+    display:block;
+    @media only screen and (min-width: 768px) {
+      margin-top:4em;
+    }
+  }
 }
