@@ -2,7 +2,7 @@
 layout: post
 title: "Note #2: The re-birth of the Membership prototype"
 date: "2018-10-14"
-#description: ""
+#subtitle: ""
 tags: ['note']
 #categories: []
 ---

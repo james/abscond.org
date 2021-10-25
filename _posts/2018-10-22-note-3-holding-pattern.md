@@ -2,7 +2,7 @@
 layout: post
 title: "Note #3: Holding pattern"
 date: "2018-10-22"
-#description: ""
+#subtitle: ""
 tags: ['note']
 #categories: []
 ---

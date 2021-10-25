@@ -2,7 +2,7 @@
 layout: post
 title: "Note #1: Burning Man ‘18"
 date: "2018-09-22"
-#description: ""
+#subtitle: ""
 tags: ['note']
 #categories: []
 ---

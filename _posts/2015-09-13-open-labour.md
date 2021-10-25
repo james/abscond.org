@@ -2,7 +2,7 @@
 layout: post
 title: "Open Labour"
 date: "2015-09-13"
-# description: ""
+subtitle: "My hopes for the future of the Labour Party"
 #tags: ['']
 #categories: []
 ---

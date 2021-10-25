@@ -2,7 +2,7 @@
 layout: post
 title: "Learning to code is ignorant bliss"
 date: "2014-09-30"
-# description: ""
+subtitle: "How and why I learnt to code, and what that might mean"
 #tags: ['']
 #categories: []
 ---

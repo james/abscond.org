@@ -2,7 +2,7 @@
 layout: post
 title: "Members, voters, people, mammals"
 date: "2021-10-04"
-description: "How do we write digital strategies for collectivist organisations?"
+subtitle: "How do we write digital strategies for collectivist organisations?"
 #tags: ['note']
 # draft: true
 #categories: []

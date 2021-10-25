@@ -2,7 +2,7 @@
 layout: post
 title: "Putting strings into databases and then taking them back out again"
 date: "2017-03-15"
-# description: ""
+subtitle: "How I see my job"
 #tags: ['']
 #categories: []
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "What is liveglitch all about?"
 date: "2014-01-27"
-# description: ""
+subtitle: "An experiment in using glitches to understand complexity"
 #tags: ['']
 #categories: []
 ---

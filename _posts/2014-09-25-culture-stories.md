@@ -2,7 +2,7 @@
 layout: post
 title: "Culture Stories: Introduction and Milk"
 date: "2014-09-25"
-# description: ""
+subtitle: "Digital Transformation can be about culture"
 #tags: ['']
 #categories: []
 ---

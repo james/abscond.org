@@ -2,7 +2,7 @@
 layout: post
 title: "They may have the money, but we have the tools of technology"
 date: "2013-10-24"
-description: "Text from my 89plus Marathon speech at the Serpentine gallery, 19/10/13"
+subtitle: "Text from my 89plus Marathon speech at the Serpentine gallery, 19/10/13"
 #tags: ['']
 #categories: []
 ---

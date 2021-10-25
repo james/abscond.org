@@ -2,7 +2,7 @@
 layout: post
 title: "On BERG’s hibernation"
 date: "2014-09-09"
-# description: ""
+subtitle: "Some thoughts on my old employer"
 #tags: ['']
 #categories: []
 ---

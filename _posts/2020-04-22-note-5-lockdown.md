@@ -2,7 +2,7 @@
 layout: post
 title: "Note #5: Lockdown"
 date: "2020-08-21"
-#description: ""
+#subtitle: ""
 tags: ['note']
 #categories: []
 ---

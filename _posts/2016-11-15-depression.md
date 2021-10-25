@@ -2,7 +2,7 @@
 layout: post
 title: "Depression"
 date: "2016-11-15"
-# description: ""
+subtitle: "An honest account of my battles with depression"
 #tags: ['']
 #categories: []
 ---

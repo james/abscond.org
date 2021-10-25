@@ -2,7 +2,7 @@
 layout: post
 title: "Membership: a prototype"
 date: "2017-02-26"
-# description: ""
+subtitle: "Exploring ideas for digital membership"
 #tags: ['']
 #categories: []
 ---
