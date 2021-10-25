@@ -2,6 +2,8 @@ title:              James Darling
 email:              james@abscond.org
 author:             James Darling
 url:                "https://abscond.org"
+sass:
+    sass_dir: ./assets
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
