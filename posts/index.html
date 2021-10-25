@@ -1,48 +1,82 @@
 ---
-layout: page
-title: Posts
-background: '/img/bg-post.jpg'
+layout: default
 ---
+<nav>
+  <div class="container">
+    <div class="row">
+      <div class="col-10 mx-auto">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">James Darling</a></li>
+          <li class="breadcrumb-item active">Blog Posts</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</nav>
 
-{% for post in paginator.posts %}
+<header class="masthead">
+  <div class="container homepage">
+    <div class="row">
+      <div class="col-lg-10 col-md-12 mx-auto">
+        <div class="row">
+          <div class="col-sm-3">
+          </div>
+          <div class="col-sm-9">
+            <h1>James Darling's blog</h1>
+            <p>I ocasionally write blog posts here. You can <a href="/feed.xml">subscribe to recieve them via RSS</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
 
-<article class="post-preview">
-  <a href="{{ post.url | replace: '//', '/' }}">
-    <h2 class="post-title">{{ post.title }}</h2>
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-    {% else %}
-    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-    {% endif %}
-  </a>
-  <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
-    {% else %}
-    {{ site.author }}
-    {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-  </p>
-</article>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-md-12 mx-auto">
+      <dl class="row post-list">
+        {% for post in site.posts %}
+          <dd class="col-sm-3">{{ post.date | date: '%d %B %Y' }}</dd>
+          <dt class="col-sm-9">
+            <a href="{{ post.url | replace: '//', '/' }}">
+              <h2>{{ post.title }}</h2>
+              {% if post.subtitle %}
+                <p>{{ post.subtitle }}</p>
+              {% endif %}
+            </a>
+          </dt>
+        {% endfor %}
+      </dl>
 
-<hr>
+      <hr>
 
-{% endfor %}
+      <h2>Elsewhere</h2>
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
+      <p>A selection of posts I have written for other blogs</p>
 
-<div class="clearfix">
-
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
-  {% endif %}
-
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
-  {% endif %}
-
+      <dl class="row post-list">
+        <dd class="col-sm-3">14 January 2020</dd>
+        <dt class="col-sm-9">
+          <a href="https://www.dxw.com/2020/01/where-are-our-affordable-houses-and-how-do-councils-keep-track-of-them/">
+            <h2>Where are our affordable houses and how do councils keep track of them?</h2>
+            <p>A post for dxw on how Councils are losing much needed affordable housing from their stock through a lack of data</p>
+          </a>
+        </dt>
+        <dd class="col-sm-3">10 March 2016</dd>
+        <dt class="col-sm-9">
+          <a href="https://web.archive.org/web/20160310181044/http://digital.labour.org.uk/2016/03/10/what-do-we-mean-when-we-say-digital/">
+            <h2>Labour Party: What do we mean when we say ‘digital’?</h2>
+            <p>A post for the Labour Party breaking apart an overloaded term</p>
+          </a>
+        </dt>
+        <dd class="col-sm-3">14 September 2011</dd>
+        <dt class="col-sm-9">
+          <a href="http://berglondon.com/blog/2011/09/14/bringing-the-london-bus-network-home/">
+            <h2>Bringing the London Bus Network home</h2>
+            <p>A post for BERG on a side project exploring live bus data</p>
+          </a>
+        </dt>
+      </dl>
+    </div>
+  </div>
 </div>
-
-{% endif %}

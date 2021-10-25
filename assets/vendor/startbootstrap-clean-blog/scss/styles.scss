@@ -41,3 +41,14 @@
     }
   }
 }
+
+nav {
+  background-color: $primary;
+  color: white;
+  a {
+    color: white;
+    &:hover {
+      color: white;
+    }
+  }
+}
