@@ -120,12 +120,18 @@ blockquote {
 
 footer {
   background-color: $primary;
-  padding: 1em 0;
+  padding: 0.5em 0;
 
-  .copyright {
+  font-size: 2em;
+  color: white;
+  margin: 0;
+  text-align: center;
+  a {
+    color: white;
+    text-decoration: none;
+    &:hover {
       color: white;
-      margin: 0;
-      text-align: right;
+    }
   }
 }
 
