@@ -39,7 +39,7 @@ I don’t say this to show off, I am as annoyed by it as anyone. But I’ll admi
 
 ---
 
-![Cat on laptop keyboard](/images/blog/cat-align-left.jpeg#align-left)
+![Cat on laptop keyboard](/img/posts/cat-align-left.jpeg#align-left)
 
 To top everything off, my conservatory has procured a cat.
 

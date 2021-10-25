@@ -25,7 +25,7 @@ I attended my local Q&A for [Solar Together](https://solartogetherlondon.ichoosr
 
 A friend of mine works at [Forgotten Circus school](https://forgottencircusschool.com/), and she convinced me to join a ‘straps’ lesson. Here is me hanging upside down.
 
-![Me hanging upside down on straps](/images/blog/aerial.jpeg#align-left)
+![Me hanging upside down on straps](/img/posts/aerial.jpeg#align-left)
 
 It. is. exhausting. Look how red my face is. I’m so glad I had a friend there as a teacher, as it was very intimidating just how incredibly strong everyone else was.
 

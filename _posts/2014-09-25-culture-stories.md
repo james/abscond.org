@@ -19,7 +19,7 @@ So here’s a little story about one of the first things I did when I joined the
 
 ## A story about milk
 
-![An office fridge full of single pints of milk](/images/blog/milk.jpeg#align-center)
+![An office fridge full of single pints of milk](/img/posts/milk.jpeg#align-center)
 
 I took a photo of the fridge. But wait, there’s more to this story. The reason I took a photo of the fridge is that it’s full of individual pints of milk with a name written on each of them. Like a code smell, this felt like a culture smell (and often a sour milk smell). A minor thing, but something that felt like a symptom of a bigger, more difficult problem.
 

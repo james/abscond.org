@@ -52,7 +52,7 @@ That’s the conversation we’d like to start having in 2019.
 
 ## Posters and Drinks
 
-![Rewired State Poster](/images/blog/rewired-state-poster.png#align-left)
+![Rewired State Poster](/img/posts/rewired-state-poster.png#align-left)
 
 Rewired State was 10 years ago. We managed to find the original design files for the posters from that day and have printed (way too many of) them as A5 posters on nice heavy silk paper.
 

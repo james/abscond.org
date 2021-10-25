@@ -33,13 +33,13 @@ If you ignore all of the above writing, then put simply, this prototype is a CRM
 
 The [source code is on github](https://github.com/james/membership), and I have [an instance running on a free heroku plan](https://james-membership.herokuapp.com/), but I’ll provide screenshots and a walkthrough here.
 
-![Screenshot of membership prototype - a list of users](/images/blog/membership-1.png#align-center)
+![Screenshot of membership prototype - a list of users](/img/posts/membership-1.png#align-center)
 
 At it’s core, it’s a membership database. I have seeded it here with 10,000 fake profiles, but I also wrote an import script to be able to grab real data out of a [nationbuilder](http://nationbuilder.com/) account.
 
 Already, a canonical list of members held in a database with open source code is a great leap forward for many membership organisations, but we need to make it usable.
 
-![Screenshot of membership prototype - a list of users filtered by date of birth](/images/blog/membership-2.png#align-center)
+![Screenshot of membership prototype - a list of users filtered by date of birth](/img/posts/membership-2.png#align-center)
 
 The most common task I’ve seen is being filtering and searching the members by various categories, and in this example I have created filters for membership status, date of birth, and physical address by drawing on a map. So if I want to be able to find all under-30s who live within the M25, I can do so like above.
 
@@ -55,16 +55,16 @@ In every contact, the member should be able to have at least a basic understandi
 
 As an example of this from Labour, when I was volunteering on the first Jeremy Corbyn leadership campaign, we had a moderately sized list of members who, by diligently following Labour Party policy, we were unable to contact to thank them for their donations because they had unsubscribed from Labour communications by [entirely different groups about campaigns they didn’t know where happening](https://www.theguardian.com/politics/2016/mar/10/david-lammy-fined-over-mayoral-bid-nuisance-calls). Another example being that when a member leaves a group, eg by moving house into another constituency, an increasingly common occurance, it can take a while, it it happens at all, for your personal data to be removed from that group’s silo’d member list.
 
-![Screenshot of membership prototype - new group form](/images/blog/membership-3.png#align-center)
+![Screenshot of membership prototype - new group form](/img/posts/membership-3.png#align-center)
 
 We can create tools that make all this easier if we start thinking about realistic semantics of these groups, and being able to represent this in databases and open source code. In my prototype, you can take any filter of members, and create a ‘group’ out of it. A group has many members (this is beginning to sound a bit like a first year computer science degree example), and we can programmatically and manually keep that list up to date. We can share that information with both the member, so they have knowledge of who has their information and why, and with an organiser, so that they can contact them with minimal bureaucracy.
 
-![Screenshot of membership prototype - logged in as greg](/images/blog/membership-4.png#align-center)
+![Screenshot of membership prototype - logged in as greg](/img/posts/membership-4.png#align-center)
 
 Here we have created a new logged in user, Greg, and he has been given privileges to the group we have just created. Note that he can only see the personal data of the members of his group, but he still has all the same tools as an admin. If he had appropriate privileges over multiple groups, all relevant members would be available.
 This information can be kept up to date by Greg, HQ, the user or an API, we can share with the member that Greg has access to their data and why he has it, and his privileges can be removed when necessary.
 
-![Screenshot of membership prototype - new email form](/images/blog/membership-5.png#align-center)
+![Screenshot of membership prototype - new email form](/img/posts/membership-5.png#align-center)
 
 If we were following a good micro-application architecture, we might have a separate open source application to allow Greg to actually email members which gets the relevant data from this application via an API, but as this is a prototype and that’s probably a bit too nerdy to get into right now.
 
