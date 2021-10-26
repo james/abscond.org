@@ -228,8 +228,17 @@ header.masthead {
 }
 
 .post-list {
+  dd, dt {
+    @media only screen and (min-width: 576px) {
+      margin-top: 0.5em;
+    }
+  }
   dd {
     text-align: right;
+    @media only screen and (max-width: 576px) {
+      text-align: left;
+      margin-top: 1em;
+    }
   }
   dt {
     margin-bottom: 1em;
