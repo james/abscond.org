@@ -30,8 +30,13 @@ layout: default
             {% if page.subtitle %}
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
-            <span class="meta">{{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
+            <span class="meta">
+              {{ page.date | date: '%B %d, %Y' }}
+              &middot;
+              Tagged: 
+              {% for tag in page.tags %}
+                <a href="/tag/{{ tag }}">{{ tag }}</a>
+              {% endfor %}
             </span>
           </div>
         </div>
@@ -43,6 +48,17 @@ layout: default
     <div class="row">
       <div class="col-12 post-body">
         {{ content }}
+
+        <hr>
+
+        <p>
+          For more content you can see
+          {% for tag in page.tags %}
+            all my <a href="/tag/{{ tag }}">posts tagged with '{{ tag }}'</a>,
+          {% endfor %}
+          <a href="/posts">all of my posts</a>,
+          or <a href="/">read about me</a>.
+        </p>
       </div>
     </div>
   </div>
