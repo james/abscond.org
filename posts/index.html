@@ -36,7 +36,7 @@ layout: default
     <div class="col-12">
       <dl class="row post-list">
         {% for post in site.posts %}
-          <dd class="col-sm-3">{{ post.date | date: '%d %B %Y' }}</dd>
+          <dd class="col-sm-3">{{ post.date | date: '%d %h %Y' }}</dd>
           <dt class="col-sm-9">
             <a href="{{ post.url | replace: '//', '/' }}">
               <h2>{{ post.title }}</h2>
@@ -60,21 +60,21 @@ layout: default
       </div>
 
       <dl class="row post-list">
-        <dd class="col-sm-3">14 January 2020</dd>
+        <dd class="col-sm-3">14 Jan 2020</dd>
         <dt class="col-sm-9">
           <a href="https://www.dxw.com/2020/01/where-are-our-affordable-houses-and-how-do-councils-keep-track-of-them/">
             <h2>Where are our affordable houses and how do councils keep track of them?</h2>
             <p>A post for dxw on how Councils are losing much needed affordable housing from their stock through a lack of data</p>
           </a>
         </dt>
-        <dd class="col-sm-3">10 March 2016</dd>
+        <dd class="col-sm-3">10 Mar 2016</dd>
         <dt class="col-sm-9">
           <a href="https://web.archive.org/web/20160310181044/http://digital.labour.org.uk/2016/03/10/what-do-we-mean-when-we-say-digital/">
             <h2>Labour Party: What do we mean when we say ‘digital’?</h2>
             <p>A post for the Labour Party breaking apart an overloaded term</p>
           </a>
         </dt>
-        <dd class="col-sm-3">14 September 2011</dd>
+        <dd class="col-sm-3">14 Sep 2011</dd>
         <dt class="col-sm-9">
           <a href="http://berglondon.com/blog/2011/09/14/bringing-the-london-bus-network-home/">
             <h2>Bringing the London Bus Network home</h2>
