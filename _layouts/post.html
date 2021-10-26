@@ -35,7 +35,7 @@ layout: default
               &middot;
               Tagged: 
               {% for tag in page.tags %}
-                <a href="/tag/{{ tag }}">{{ tag }}</a>
+                <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
               {% endfor %}
             </span>
           </div>
@@ -54,7 +54,7 @@ layout: default
         <p>
           For more content you can see
           {% for tag in page.tags %}
-            all my <a href="/tag/{{ tag }}">posts tagged with '{{ tag }}'</a>,
+            all my <a href="/tag/{{ tag | slugify }}">posts tagged with '{{ tag }}'</a>,
           {% endfor %}
           <a href="/posts">all of my posts</a>,
           or <a href="/">read about me</a>.
