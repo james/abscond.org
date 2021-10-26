@@ -4,11 +4,9 @@ title: "Members, voters, people, mammals"
 date: "2021-10-04"
 subtitle: "How do we write digital strategies for collectivist organisations?"
 #tags: ['note']
-# draft: true
-#categories: []
 ---
 
-Last month the new General Secretary [unveiled Labour's new strategy to its staff](https://labourlist.org/2021/08/exclusive-labour-general-secretary-unveils-new-party-structure-to-staff/). I've seen some of the slides and: Agile, multi-disciplinary teams, matrix management, iterative improvement, rapid deployment... if you've been a part of any 'digital transformation' in the private or public sector in the last decade you will recognise these words.
+A few months ago the new General Secretary [unveiled Labour's new strategy to its staff](https://labourlist.org/2021/08/exclusive-labour-general-secretary-unveils-new-party-structure-to-staff/). I've seen some of the slides and: Agile, multi-disciplinary teams, matrix management, iterative improvement, rapid deployment... if you've been a part of any 'digital transformation' in the private or public sector in the last decade you will recognise these words.
 
 It is easy to dismiss these as managerial buzzwords, but the words do have meaning, history and power and are worth exploring. 
 
