@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Members, voters, people, mammals"
-date: "2021-10-04"
+date: "2021-10-27"
 subtitle: "How do we write digital strategies for collectivist organisations?"
 #tags: ['note']
 ---
@@ -18,7 +18,7 @@ Of course, while a certain portion of the tech industry's outsized profits can b
 
 ## Government Users
 
-While the private sector is running riot with its new software powers, the state and benefit societies have been left looking distinctly antiquated and ineffective. But there have been movements in government to catch up. Over the last decade, digital transformation playbooks have been developed for governments in [India](https://amzn.to/3iukpMA), [Estonia](https://e-resident.gov.ee/) and most relevantly for us: [the UK](https://www.gov.uk/service-manual), which has then been copied by [Australia](https://www.dta.gov.au/help-and-advice/about-digital-service-standard), [US](https://www.usds.gov/how-we-work) and others.
+While the private sector is running riot with its new software powers, the state has been left looking distinctly antiquated and ineffective. But there have been movements in government to catch up. Over the last decade, digital transformation playbooks have been developed for governments in [India](https://amzn.to/3iukpMA), [Estonia](https://e-resident.gov.ee/) and most relevantly for us: [the UK](https://www.gov.uk/service-manual), which has then been copied by [Australia](https://www.dta.gov.au/help-and-advice/about-digital-service-standard), [US](https://www.usds.gov/how-we-work) and others.
 
 Many of those who have contributed to the UK's efforts (myself included) brought what we had learned from working in those silicon valley inspired startups. Most of it, from user research to rapid deployments, was relevant and much needed, but some things were subtly but fundamentally different.
 
@@ -28,13 +28,13 @@ The UK Government Digital Service has made world leading advances in transformin
 
 ## Collective Members
 
-But [benefit societies](https://en.wikipedia.org/wiki/Benefit_society) (for example trade unions, co-operatives and building societies) have barely started. Already hobbled politically since the 1980s, the digital revolution is leaving them administratively inert. While Uber has grown to an $86bn company in 10 years, your beleaguered trade union rep is using BCC from their personal email to conduct a strike ballot. Some of that sentence definitely doesn't make sense and needs changing, but after 6 years I'm not 100% certain which parts, let alone know what the replacement is. But it's a reasonable bet that it involves software.
+But the [benefit societies](https://en.wikipedia.org/wiki/Benefit_society) (for example trade unions, co-operatives and building societies) that can represent the needs of large groups of people have barely started this transition. Already hobbled politically since the 1980s, the digital revolution is leaving them administratively inert. While Uber has grown to an $86bn company in 10 years, your beleaguered trade union rep is using BCC from their personal email to conduct a strike ballot. Some of that sentence definitely doesn't make sense and needs changing, but after 6 years I'm still not 100% certain which parts, let alone know what the replacement is. It is, however, a reasonable bet that it involves software.
 
 And software probably means that *Agile, multi-disciplinary etc etc* is a good idea. We can copy-paste a lot of the ideas without too much fear. But we get stuck on how to translate 'customer mindset' again. As [I explored in 2017](/2017/02/26/membership-a-prototype/): benefit societies do not have customers nor users, they have members. Although they are indeed all humans (and mammals), a member is more different than a government user is to a company's customer. The lessons are less relevant here.
 
 ## Labour voters?
 
-This brings me back to the Labour Party's strategy. It all roughly looks sensible to me, and not far off what I would advocate for. In fact, it is almost identical to what [we were proposing in 2016](https://web.archive.org/web/20160905193624/http://digital.labour.org.uk/2016/01/25/digital-revolution-in-the-labour-party/) when I worked there. It was brutally rejected by Labour HQ that time. Maybe we didn't make our argument well, or we were the wrong messengers, or (more flattering to myself) we were too early.
+This brings me back to the Labour Party's strategy. It all roughly looks sensible to me, and not far off what I would advocate for. In fact, it is almost identical to what [we were proposing in 2016](https://web.archive.org/web/20160905193624/http://digital.labour.org.uk/2016/01/25/digital-revolution-in-the-labour-party/) when I worked there. It was [brutally rejected by Labour HQ that time](https://commonknowledge.github.io/labour-together-ge2019-review/system-updates-required.html#a-lack-of-digital-technology-leadership). Maybe we didn't make our argument well, or we were the wrong messengers, or (more flattering to myself) we were too early.
 
 But there is one major difference between what we proposed in 2016 and what has been adopted by senior management now, and that is who we considered the primary users. We [focussed on members](https://web.archive.org/web/20160427150424/http://digital.labour.org.uk/2016/04/27/what-do-we-mean-by-user-centred-design/), whereas the new strategy has 'voter-centric' as its first principle.
 
