@@ -15,7 +15,7 @@ I'm at the end of an intense fortnight, where I have moved out of my house and p
 
 'Murmuration' is something that my friend Frank and I started working on in late 2019 having got some funding to take it to [Nest festival](https://www.burningnest.co.uk/). That obviously got cancelled (although they did cover the money we had already spent by that point), so the project has gone throughout the pandemic without any real motivation or funding to continue.
 
-But Nowhere festival, despite not even running in 2020, offered some art grants for things that would be public in the local community. All we had to do was apply, make the art and then find someone who would let us run it publicly.
+But [Nowhere festival](https://www.goingnowhere.org/), despite not even running in 2020, [offered some art grants](https://mailchi.mp/goingnowhere/weve-got-art-grants-for-you?e=87c1ea9893) for things that would be public in the local community. All we had to do was apply, make the art and then find someone who would let us run it publicly.
 
 Luckily my friend [Becky](https://www.beckyobrien.co.uk/about) has recently started a [performance art open mic night](https://www.instagram.com/runt_of_thelitter/) in her flat in Hackney Wick. Some emails and application forms later, we had the money to buy lots of steel and a deadline to meet.
 
