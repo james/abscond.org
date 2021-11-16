@@ -9,6 +9,8 @@ tags: ['note']
 
 I'm at the end of an intense fortnight, where I have moved out of my house and prepared for half of it to be knocked down and rebuilt, at the same time as hitting crunch time of preparing our art project for its first public outing.
 
+---
+
 ![Photo of fire from flame effect art](/img/posts/fire.jpg#align-right)
 
 'Murmuration' is something that my friend Frank and I started working on in late 2019 having got some funding to take it to [Nest festival](https://www.burningnest.co.uk/). That obviously got cancelled (although they did cover the money we had already spent by that point), so the project has gone throughout the pandemic without any real motivation or funding to continue.
