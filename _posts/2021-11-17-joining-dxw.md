@@ -6,7 +6,7 @@ subtitle: ""
 tags: ['work']
 ---
 
-After 9 years of going it alone, I am going to join [dxw](https://www.dxw.com/) as Technical Principle.
+After 9 years of going it alone, I am going to join [dxw](https://www.dxw.com/), a public and third sector digital agency, as Technical Principle.
 
 I've already worked with dxw on several contracts over the years. In fact, I was "the dextrous web's" first contractor in 2009 when the company was just [Harry](https://www.dxw.com/author/harry-metcalfe/). The company, me and the civic technology sphere has changed a lot over those years, but I have always respected dxw for the work they do and the values they hold. They have approached every project with talent, professionalism and care for the work. They are also one of the few public sector agencies who are truly able to do the work from inception to production.
 
