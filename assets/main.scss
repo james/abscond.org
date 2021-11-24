@@ -20,7 +20,7 @@ $breadcrumb-active-color: #ddd;
 // @import "vendor/bootstrap/scss/code";
 @import "vendor/bootstrap/scss/grid";
 // @import "vendor/bootstrap/scss/tables";
-// @import "vendor/bootstrap/scss/forms";
+@import "vendor/bootstrap/scss/forms";
 // @import "vendor/bootstrap/scss/buttons";
 // @import "vendor/bootstrap/scss/transitions";
 // @import "vendor/bootstrap/scss/dropdown";
@@ -29,7 +29,7 @@ $breadcrumb-active-color: #ddd;
 // @import "vendor/bootstrap/scss/custom-forms";
 // @import "vendor/bootstrap/scss/nav";
 // @import "vendor/bootstrap/scss/navbar";
-// @import "vendor/bootstrap/scss/card";
+@import "vendor/bootstrap/scss/card";
 @import "vendor/bootstrap/scss/breadcrumb";
 // @import "vendor/bootstrap/scss/pagination";
 // @import "vendor/bootstrap/scss/badge";
@@ -318,5 +318,20 @@ nav {
     &:hover {
       color: white;
     }
+  }
+}
+
+.comment {
+  p {
+    margin: 0;
+  }
+
+  .card-header {
+    p {
+      float: left;
+    }
+    .date {
+      float: right;
+    }  
   }
 }

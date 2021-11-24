@@ -59,6 +59,47 @@ layout: default
           <a href="/posts">all of my posts</a>,
           or <a href="/">read about me</a>.
         </p>
+
+        <hr>
+
+        <h3>Comments</h3>
+        {% if site.data.comments[page.slug] %}
+          {% for comment in site.data.comments[page.slug] %}
+            <div class="card comment">
+              <div class="card-header">
+                <p>{{ comment[1].name }}</p>
+                <p class="date text-muted"><small>{{ comment[1].date | date: '%B %d, %Y' }}</small></p>
+              </div>
+              <div class="card-body">
+                {{ comment[1].message | markdownify }}
+              </div>
+            </div>
+          {% endfor %}
+        {% else %}
+          <p>No comments yet.</p>
+        {% endif %}
+        <hr>
+
+        <h4>Add your comment</h4>
+
+        <form method="POST" action="https://abscond-staticman.herokuapp.com/v3/entry/github/james/abscond.org/master/comments">
+          <input name="options[redirect]" type="hidden" value="https://abscond.org/comment_submitted">
+          <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+          <div class="form-group">
+            <label for="comment_name">Name</label>
+            <input name="fields[name]" type="text" id="comment_name" class="form-control" />
+          </div>
+
+          <div class="form-group">
+            <label for="comment_message">Comment</label>
+            <textarea rows="5" name="fields[message]" type="text" id="comment_message" class="form-control"></textarea>
+          </div>
+        
+          <div class="form-group">
+            <p class="text-muted">Your comment will be published once approved</p>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+        </form>        
       </div>
     </div>
   </div>
