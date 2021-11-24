@@ -1,0 +1,36 @@
+- name: Murmuration
+  when: 2019-current
+  description:
+    A flame effect art project, inspired by the art of Burning Man, for co-created festivals in Europe.
+    [See more](https://www.instagram.com/p/CWL3w3JMs6R/).
+  image: murmuration.jpg
+- name: Leyton Church Gardens
+  when: 2021-current
+  description:
+    Regular volunteering at Leyton Church to help maintain the unloved gardens and graveyard.
+    [See more](https://www.instagram.com/saint.church.garden/).
+  image: leyton-church.jpg
+- name: London Decompression
+  when: 2017-current
+  description:
+    I lead membership, ticketing and volunteering at this official Burning Man event.
+    [Read more](https://londondecom.org/)
+  image: decompression.jpeg
+- name: Bus Times
+  when: 2011
+  description:
+    An exploration of new bus timetable data, and ambient IoT displays
+    [Read more](http://berglondon.com/blog/2011/09/14/bringing-the-london-bus-network-home/)
+  image: bus.jpeg
+- name: National Hack The Government Day
+  when: 2009-2011
+  description:
+    Co-founded a series of civic tech hack days.
+    [Read more](https://en.wikipedia.org/wiki/Rewired_State)
+  image: rewired-state.png
+- name: Music Hack Day
+  when: 2009-2010
+  description: 
+    Co-founded a series of music industry hack days.
+    [Read more](https://en.wikipedia.org/wiki/Music_Hack_Day)
+  image: music-hackday.jpg
