@@ -14,4 +14,4 @@ I'll be using my professional experience to try and figure out the essence of an
 
 I'm going to try and explain what they do as if I'm in the pub with you and I'm trying to convince you to go on a date with a friend who works there. So read it in that light.
 
-They will all be on this blog and tagged with '[Departmental Review](/tag/departmental-review/)', so you can read them all on that page. First one tomorrow.
+They will all be on this blog and tagged with '[Departmental Review](/tag/departmental-review/)', so you can read them all on that page. [First one is on the United Kingdom Accreditation Service](/2021/11/25/united-kingdom-accreditation-service.html).
