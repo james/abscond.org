@@ -19,7 +19,7 @@ $breadcrumb-active-color: #ddd;
 @import "vendor/bootstrap/scss/images";
 // @import "vendor/bootstrap/scss/code";
 @import "vendor/bootstrap/scss/grid";
-// @import "vendor/bootstrap/scss/tables";
+@import "vendor/bootstrap/scss/tables";
 @import "vendor/bootstrap/scss/forms";
 // @import "vendor/bootstrap/scss/buttons";
 // @import "vendor/bootstrap/scss/transitions";
@@ -257,6 +257,9 @@ header.masthead {
 }
 
 .post-body {
+  a {
+    text-decoration: underline;
+  }
   img {
     display: block;
     margin: 10px 0;
