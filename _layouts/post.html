@@ -21,12 +21,14 @@ layout: default
             {% endif %}
             <span class="meta">
               {{ page.date | date: '%B %d, %Y' }}
-              &middot;
-              Tagged: 
-              {% for tag in page.tags %}
-                <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
-              {% endfor %}
-            </span>
+              {% if page.tags.size != 0 %}
+                &middot;
+                Tagged: 
+                {% for tag in page.tags %}
+                  <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
+                {% endfor %}
+              {% endif %}
+              </span>
           </div>
         </div>
       </div>
