@@ -35,9 +35,9 @@ For £330 you can go on a 6 hour Allen Carr seminar. All of the [marketing mater
 
 The fact that by this point I was spending well over £200/month on cigarettes also made the price a little easier to pay.
 
-I joined a zoom call at 10am with the therapist and 3 other attendees. I'm quite experienced when it comes to receiving therapy, so it was interesting to watch the therapist use a sprinkling of CBT technique, then psychoanalysis, Gestalt and so on. I realised afterwards that most therapists I have been too before are specialists in a technique and apply that to a relatively wide spectrum of problems. Allen Carr therapists have one very specific problem, and deploy a war chest of therapeutic techniques at once. The therapist does a very effective balancing act of being both caring and supportive, but also letting you know that they've heard all of your excuses every day for years.
+I joined a zoom call at 10am with the therapist and 3 other attendees. I'm quite experienced when it comes to receiving therapy, so it was interesting to watch the therapist use a sprinkling of CBT technique, then psychoanalysis, Gestalt and so on. I realised afterwards that most therapists I have been to before are specialists in a technique and apply that to a relatively wide spectrum of problems. Allen Carr therapists have one very specific problem, and deploy a war chest of therapeutic techniques at once. The therapist does a very effective balancing act of being both caring and supportive, but also letting you know that they've heard all of your excuses every day for years.
 
-And it really worked. After each hour of the course I'd leave my office my cigarette break, and by the third hour my partner commented that I looked a bit shocked. It was sinking in.
+And it really worked. After each hour of the course I'd leave my office for my cigarette break, and by the third hour my partner commented that I looked a bit shocked. It was sinking in.
 
 6 hours seems a long time, but it's worth it. Tackling nicotine addiction was like playing whackamole - as soon as you convince yourself against one reason to smoke, another pops up. So spending a good 6 hours really covering every possible reason all at once was probably the only way I was going to do it.
 
