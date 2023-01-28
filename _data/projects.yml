@@ -1,17 +1,17 @@
-- name: Murmuration
+- name: Hot Mess
   when: 2019-current
   description:
     A flame effect art project, inspired by the art of Burning Man, for co-created festivals in Europe.
     [See more](https://www.instagram.com/p/CWL3w3JMs6R/).
   image: murmuration.jpg
 - name: Leyton Church Gardens
-  when: 2021-current
+  when: 2021-2022
   description:
     Regular volunteering at Leyton Church to help maintain the unloved gardens and graveyard.
     [See more](https://www.instagram.com/saint.church.garden/).
   image: leyton-church.jpg
 - name: London Decompression
-  when: 2017-current
+  when: 2017-2022
   description:
     I lead membership, ticketing and volunteering at this official Burning Man event.
     [Read more](https://londondecom.org/)
