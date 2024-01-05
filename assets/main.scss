@@ -276,7 +276,7 @@ header.masthead {
 
     &[src$="align-left"] {
       @media only screen and (min-width: 768px) {
-        max-width: 50%;
+        max-width: 40%;
       }
       float: left;
       margin-right: 40px;
@@ -284,7 +284,7 @@ header.masthead {
     
     &[src$="align-right"] {
       @media only screen and (min-width: 768px) {
-        max-width: 50%;
+        max-width: 40%;
       }
       float: right;
       margin-left: 40px;
