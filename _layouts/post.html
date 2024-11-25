@@ -40,7 +40,16 @@ layout: default
       <div class="col-12 post-body">
         {{ content }}
 
-        <hr>
+        <hr class="hard">
+
+        <p class="previous_next">
+          {% if page.previous %}
+            <a href="{{ page.previous.url }}">&larr; Previous Post: {{ page.previous.title }}</a>
+          {% endif %}
+          {% if page.next %}
+            <a href="{{ page.next.url }}">Next Post: {{ page.next.title }} &rarr;</a>
+          {% endif %}
+        </p>
 
         <p>
           For more content you can see
@@ -50,8 +59,6 @@ layout: default
           <a href="/posts">all of my posts</a>,
           or <a href="/">read about me</a>.
         </p>
-
-        <hr>
       </div>
     </div>
   </div>
