@@ -2,6 +2,7 @@
 layout: post
 title: 'Note #13: Post-its'
 date: 2024-12-08 23:06 +0000
+tags: ['note']
 ---
 
 Sometimes my brain gets so overloaded that simple decisions become too overwhelming and I start crying over what to pack for a weekend away. When this happens I have learnt that it's helpful to empty my brain into post-it notes. This isn't a productivity system. I have no rules. There's no set size of each one. One might be "put on socks" and another might be "write a novel". I just need to get all the thoughts out of my head so I can stop freaking out.
