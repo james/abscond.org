@@ -1,3 +1,9 @@
+- name: Londometer
+  when: 2026
+  description:
+    Yeah, but how much do you really live in London?
+    [Use it](https://london.abscond.org/)
+  image: londometer.png
 - name: Hot Mess
   when: 2019-current
   description:
@@ -5,9 +11,9 @@
     [See more](https://www.instagram.com/p/CWL3w3JMs6R/)
   image: murmuration.jpg
 - name: Runt Of The Litter
-  when: 2021-current
+  when: 2021-2025
   description:
-    You will often find me behind the bar or on the door at this Experimental performance night in Hackney Wick.
+    You would often find me behind the bar or on the door at this Experimental performance night in Hackney Wick.
     [Find out more](https://linktr.ee/runtlondon)
   image: runt.jpg
 - name: Leyton Church Gardens
